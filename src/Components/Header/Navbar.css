@@ -1,0 +1,20 @@
+nav 
+{
+    background-color: #4285F3;
+}
+
+nav div > a 
+{
+    font-weight: bold;
+    color: white !important;  
+    font-size: 1.4rem !important; 
+}
+nav div ul
+{
+    margin-left: auto;
+}
+
+nav div ul li a 
+{
+    color: white !important;
+}

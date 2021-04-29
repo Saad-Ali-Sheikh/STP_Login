@@ -1,0 +1,14 @@
+.container 
+{
+    /* display: flex; */
+    /* justify-content: center; */
+    margin-top: 70px;
+}
+
+.container .row
+{
+    display: flex;
+    justify-content: center;
+   
+}
+

@@ -1,0 +1,10 @@
+form .form-outline 
+{
+    border-bottom:1px solid black;
+}
+
+.errorMessage {
+    color: red !important;
+    font-size: 0.75em;
+    display: relative;
+  }
